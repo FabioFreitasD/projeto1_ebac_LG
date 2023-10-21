@@ -33,7 +33,7 @@ header nav li a {
     text-decoration: none;
 }
 
-.container {
+.container, h2 {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
@@ -92,7 +92,6 @@ section p {
 }
 
 #contatic .container {
-    display: block;
     justify-content: space-between;
 }
 
